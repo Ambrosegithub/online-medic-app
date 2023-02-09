@@ -1,0 +1,2 @@
+module InNetworkInsuranceHelper
+end

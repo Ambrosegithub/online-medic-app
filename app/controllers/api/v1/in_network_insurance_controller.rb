@@ -1,0 +1,2 @@
+class InNetworkInsuranceController < ApplicationController
+end

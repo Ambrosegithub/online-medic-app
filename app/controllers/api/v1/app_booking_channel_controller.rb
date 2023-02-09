@@ -1,0 +1,2 @@
+class AppBookingChannelController < ApplicationController
+end

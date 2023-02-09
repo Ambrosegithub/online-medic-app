@@ -29,6 +29,11 @@ gem 'jbuilder'
 
 gem 'rubocop'
 
+gem 'devise'
+
+gem 'rack-cors'
+
+# gem 'puma'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 

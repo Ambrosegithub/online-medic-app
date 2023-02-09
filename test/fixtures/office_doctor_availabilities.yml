@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day_of_week: MyString
+  start_time: 2023-01-30 13:53:44
+  end_time: 2023-01-30 13:53:44
+  is_available: MyText
+  reason_of_unavailability: MyString
+
+two:
+  day_of_week: MyString
+  start_time: 2023-01-30 13:53:44
+  end_time: 2023-01-30 13:53:44
+  is_available: MyText
+  reason_of_unavailability: MyString
